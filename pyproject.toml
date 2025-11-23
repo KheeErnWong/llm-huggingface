@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.1.0",
+    "ollama>=0.6.1",
     "pip>=25.3",
     "transformers[torch]>=4.57.1",
 ]
